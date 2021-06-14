@@ -1,0 +1,1 @@
+['@TCS', '@Infosys', '@canarabank', '@HDFC_Bank', '@bajaj_ltd', '@tvsmotorcompany', '@pfizer', '@sanofi', '@AdaniOnline', '@KEC_Intl']
